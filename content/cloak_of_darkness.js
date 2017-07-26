@@ -1,5 +1,4 @@
 /**
- *
  * Created by chris on 02/08/16.
  * translated from http://www.firthworks.com/roger/cloak/tads/source.html
  */
@@ -60,8 +59,11 @@ var bar = new DarkRoom({
     return true;
   }
 });
-/*
 
+
+
+
+/*
 
 message: fixeditem, readable
 number = 0
